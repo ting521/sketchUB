@@ -39,6 +39,18 @@
     {
       "class": "oval",
       "id": "5565DBB1-389A-4879-8A7F-E75A48C0726F"
+    },
+    {
+      "class": "oval",
+      "id": "5BA80A86-0F7A-4C09-B000-FB734C67045E"
+    },
+    {
+      "class": "oval",
+      "id": "BA6B44CF-C146-476C-ADB3-55D567049C3B"
+    },
+    {
+      "class": "oval",
+      "id": "F47CF263-576D-4215-B776-988E46907A7A"
     }
   ],
   "name": "Page 1",
